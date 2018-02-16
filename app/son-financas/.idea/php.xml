@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="docker://dockernginxphppfmmysql_php:latest/php" id="a8099962-41c8-4efc-89ba-c76d52e51e1f" name="Container-PHP-FPM" debugger_id="php.debugger.XDebug">
@@ -244,5 +245,7 @@
       </interpreter>
     </phpInfoCache>
   </component>
+=======
+>>>>>>> f3e88c1193043f5409d3a3f89dad03c802910cdc
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
