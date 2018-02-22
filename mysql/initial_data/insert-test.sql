@@ -1,3 +1,3 @@
 
-CREATE DATABASE `son_financas`;
-USE `son_financas`;
+CREATE DATABASE `projeto`;
+USE `projeto`;
